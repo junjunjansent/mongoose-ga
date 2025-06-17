@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-ga",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
